@@ -1,0 +1,9 @@
+C:\Users\mateusz\source\repos\JWTExample\JWTExample.Dto\bin\Debug\netcoreapp2.0\JWTExample.Dto.deps.json
+C:\Users\mateusz\source\repos\JWTExample\JWTExample.Dto\bin\Debug\netcoreapp2.0\JWTExample.Dto.dll
+C:\Users\mateusz\source\repos\JWTExample\JWTExample.Dto\bin\Debug\netcoreapp2.0\JWTExample.Dto.pdb
+C:\Users\mateusz\source\repos\JWTExample\JWTExample.Dto\obj\Debug\netcoreapp2.0\JWTExample.Dto.csprojResolveAssemblyReference.cache
+C:\Users\mateusz\source\repos\JWTExample\JWTExample.Dto\obj\Debug\netcoreapp2.0\JWTExample.Dto.csproj.CoreCompileInputs.cache
+C:\Users\mateusz\source\repos\JWTExample\JWTExample.Dto\obj\Debug\netcoreapp2.0\JWTExample.Dto.AssemblyInfoInputs.cache
+C:\Users\mateusz\source\repos\JWTExample\JWTExample.Dto\obj\Debug\netcoreapp2.0\JWTExample.Dto.AssemblyInfo.cs
+C:\Users\mateusz\source\repos\JWTExample\JWTExample.Dto\obj\Debug\netcoreapp2.0\JWTExample.Dto.dll
+C:\Users\mateusz\source\repos\JWTExample\JWTExample.Dto\obj\Debug\netcoreapp2.0\JWTExample.Dto.pdb

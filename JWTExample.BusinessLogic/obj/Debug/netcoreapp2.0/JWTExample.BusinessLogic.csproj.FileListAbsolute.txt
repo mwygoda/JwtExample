@@ -1,0 +1,17 @@
+C:\Users\mateusz\source\repos\JWTExample\JWTExample.BusinessLogic\bin\Debug\netcoreapp2.0\JWTExample.DataAccess.dll
+C:\Users\mateusz\source\repos\JWTExample\JWTExample.BusinessLogic\bin\Debug\netcoreapp2.0\JWTExample.Dto.dll
+C:\Users\mateusz\source\repos\JWTExample\JWTExample.BusinessLogic\obj\Debug\netcoreapp2.0\JWTExample.BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\mateusz\source\repos\JWTExample\JWTExample.BusinessLogic\obj\Debug\netcoreapp2.0\JWTExample.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\mateusz\source\repos\JWTExample\JWTExample.BusinessLogic\obj\Debug\netcoreapp2.0\JWTExample.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\mateusz\source\repos\JWTExample\JWTExample.BusinessLogic\obj\Debug\netcoreapp2.0\JWTExample.BusinessLogic.AssemblyInfo.cs
+C:\Users\mateusz\source\repos\JWTExample\JWTExample.BusinessLogic\bin\Debug\netcoreapp2.0\JWTExample.BusinessLogic.deps.json
+C:\Users\mateusz\source\repos\JWTExample\JWTExample.BusinessLogic\bin\Debug\netcoreapp2.0\JWTExample.BusinessLogic.dll
+C:\Users\mateusz\source\repos\JWTExample\JWTExample.BusinessLogic\bin\Debug\netcoreapp2.0\JWTExample.BusinessLogic.pdb
+C:\Users\mateusz\source\repos\JWTExample\JWTExample.BusinessLogic\bin\Debug\netcoreapp2.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mateusz\source\repos\JWTExample\JWTExample.BusinessLogic\bin\Debug\netcoreapp2.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mateusz\source\repos\JWTExample\JWTExample.BusinessLogic\bin\Debug\netcoreapp2.0\JWTExample.DataAccess.pdb
+C:\Users\mateusz\source\repos\JWTExample\JWTExample.BusinessLogic\bin\Debug\netcoreapp2.0\JWTExample.Dto.pdb
+C:\Users\mateusz\source\repos\JWTExample\JWTExample.BusinessLogic\bin\Debug\netcoreapp2.0\Microsoft.IdentityModel.Tokens.xml
+C:\Users\mateusz\source\repos\JWTExample\JWTExample.BusinessLogic\bin\Debug\netcoreapp2.0\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\mateusz\source\repos\JWTExample\JWTExample.BusinessLogic\obj\Debug\netcoreapp2.0\JWTExample.BusinessLogic.dll
+C:\Users\mateusz\source\repos\JWTExample\JWTExample.BusinessLogic\obj\Debug\netcoreapp2.0\JWTExample.BusinessLogic.pdb

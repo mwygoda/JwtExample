@@ -1,0 +1,17 @@
+C:\Users\mateusz\source\repos\JWTExample\JWTExample\bin\Debug\netcoreapp2.0\JWTExample.API.deps.json
+C:\Users\mateusz\source\repos\JWTExample\JWTExample\bin\Debug\netcoreapp2.0\JWTExample.API.runtimeconfig.json
+C:\Users\mateusz\source\repos\JWTExample\JWTExample\bin\Debug\netcoreapp2.0\JWTExample.API.runtimeconfig.dev.json
+C:\Users\mateusz\source\repos\JWTExample\JWTExample\bin\Debug\netcoreapp2.0\JWTExample.API.dll
+C:\Users\mateusz\source\repos\JWTExample\JWTExample\bin\Debug\netcoreapp2.0\JWTExample.API.pdb
+C:\Users\mateusz\source\repos\JWTExample\JWTExample\bin\Debug\netcoreapp2.0\JWTExample.BusinessLogic.dll
+C:\Users\mateusz\source\repos\JWTExample\JWTExample\bin\Debug\netcoreapp2.0\JWTExample.DataAccess.dll
+C:\Users\mateusz\source\repos\JWTExample\JWTExample\bin\Debug\netcoreapp2.0\JWTExample.Dto.dll
+C:\Users\mateusz\source\repos\JWTExample\JWTExample\bin\Debug\netcoreapp2.0\JWTExample.BusinessLogic.pdb
+C:\Users\mateusz\source\repos\JWTExample\JWTExample\bin\Debug\netcoreapp2.0\JWTExample.DataAccess.pdb
+C:\Users\mateusz\source\repos\JWTExample\JWTExample\bin\Debug\netcoreapp2.0\JWTExample.Dto.pdb
+C:\Users\mateusz\source\repos\JWTExample\JWTExample\obj\Debug\netcoreapp2.0\JWTExample.API.csprojResolveAssemblyReference.cache
+C:\Users\mateusz\source\repos\JWTExample\JWTExample\obj\Debug\netcoreapp2.0\JWTExample.API.csproj.CoreCompileInputs.cache
+C:\Users\mateusz\source\repos\JWTExample\JWTExample\obj\Debug\netcoreapp2.0\JWTExample.API.AssemblyInfoInputs.cache
+C:\Users\mateusz\source\repos\JWTExample\JWTExample\obj\Debug\netcoreapp2.0\JWTExample.API.AssemblyInfo.cs
+C:\Users\mateusz\source\repos\JWTExample\JWTExample\obj\Debug\netcoreapp2.0\JWTExample.API.dll
+C:\Users\mateusz\source\repos\JWTExample\JWTExample\obj\Debug\netcoreapp2.0\JWTExample.API.pdb

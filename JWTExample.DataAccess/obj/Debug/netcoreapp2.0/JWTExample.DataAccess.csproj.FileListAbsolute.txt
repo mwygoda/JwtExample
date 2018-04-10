@@ -1,0 +1,9 @@
+C:\Users\mateusz\source\repos\JWTExample\JWTExample.DataAccess\bin\Debug\netcoreapp2.0\JWTExample.DataAccess.deps.json
+C:\Users\mateusz\source\repos\JWTExample\JWTExample.DataAccess\bin\Debug\netcoreapp2.0\JWTExample.DataAccess.dll
+C:\Users\mateusz\source\repos\JWTExample\JWTExample.DataAccess\obj\Debug\netcoreapp2.0\JWTExample.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\mateusz\source\repos\JWTExample\JWTExample.DataAccess\obj\Debug\netcoreapp2.0\JWTExample.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\mateusz\source\repos\JWTExample\JWTExample.DataAccess\obj\Debug\netcoreapp2.0\JWTExample.DataAccess.AssemblyInfoInputs.cache
+C:\Users\mateusz\source\repos\JWTExample\JWTExample.DataAccess\obj\Debug\netcoreapp2.0\JWTExample.DataAccess.AssemblyInfo.cs
+C:\Users\mateusz\source\repos\JWTExample\JWTExample.DataAccess\bin\Debug\netcoreapp2.0\JWTExample.DataAccess.pdb
+C:\Users\mateusz\source\repos\JWTExample\JWTExample.DataAccess\obj\Debug\netcoreapp2.0\JWTExample.DataAccess.dll
+C:\Users\mateusz\source\repos\JWTExample\JWTExample.DataAccess\obj\Debug\netcoreapp2.0\JWTExample.DataAccess.pdb
