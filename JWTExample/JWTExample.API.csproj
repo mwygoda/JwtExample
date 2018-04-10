@@ -12,4 +12,10 @@
     <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.5" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\JWTExample.BusinessLogic\JWTExample.BusinessLogic.csproj" />
+    <ProjectReference Include="..\JWTExample.DataAccess\JWTExample.DataAccess.csproj" />
+    <ProjectReference Include="..\JWTExample.Dto\JWTExample.Dto.csproj" />
+  </ItemGroup>
+
 </Project>

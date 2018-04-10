@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWTExample", "JWTExample\JWTExample.csproj", "{8AED752E-E915-4DF9-AF73-6B6A5CF6BC59}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWTExample.API", "JWTExample\JWTExample.API.csproj", "{8AED752E-E915-4DF9-AF73-6B6A5CF6BC59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWTExample.BusinessLogic", "JWTExample.BusinessLogic\JWTExample.BusinessLogic.csproj", "{EF5D0985-9FEC-46FC-915C-6CCC8CD2EC67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWTExample.DataAccess", "JWTExample.DataAccess\JWTExample.DataAccess.csproj", "{A41B0646-DA05-4EE7-8C30-5FE76A95C196}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWTExample.Dto", "JWTExample.Dto\JWTExample.Dto.csproj", "{A6A49798-6DE9-47BB-9104-E4023814D10C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{8AED752E-E915-4DF9-AF73-6B6A5CF6BC59}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8AED752E-E915-4DF9-AF73-6B6A5CF6BC59}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8AED752E-E915-4DF9-AF73-6B6A5CF6BC59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF5D0985-9FEC-46FC-915C-6CCC8CD2EC67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF5D0985-9FEC-46FC-915C-6CCC8CD2EC67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF5D0985-9FEC-46FC-915C-6CCC8CD2EC67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF5D0985-9FEC-46FC-915C-6CCC8CD2EC67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A41B0646-DA05-4EE7-8C30-5FE76A95C196}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A41B0646-DA05-4EE7-8C30-5FE76A95C196}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A41B0646-DA05-4EE7-8C30-5FE76A95C196}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A41B0646-DA05-4EE7-8C30-5FE76A95C196}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6A49798-6DE9-47BB-9104-E4023814D10C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6A49798-6DE9-47BB-9104-E4023814D10C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6A49798-6DE9-47BB-9104-E4023814D10C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6A49798-6DE9-47BB-9104-E4023814D10C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
