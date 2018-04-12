@@ -3,8 +3,10 @@ using JWTExample.BusinessLogic.Config;
 using JWTExample.BusinessLogic.Implementation;
 using JWTExample.BusinessLogic.Interfaces;
 using JWTExample.DataAccess;
+using JWTExample.DataAccess.Models;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -34,6 +36,8 @@ namespace JWTExample.API
             services.AddMvc();
             IdentityConfiguration.ConfigureIdentity(services);
             services.AddSingleton(sp => AutoMapperConfig.Initialize());
+            services.AddSingleton(_ => Configuration as IConfigurationRoot);
+            services.AddScoped<PasswordHasher<User>>();
             services.AddScoped<IAuthService, AuthService>();
             JwtConfiguration.AddJwtAuthorization(Configuration, services);
         }

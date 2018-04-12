@@ -1,6 +1,7 @@
 ﻿using System.Threading.Tasks;
 using JWTExample.BusinessLogic.Interfaces;
 using JWTExample.Dto.Account;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace JWTExample.API.Controllers
@@ -35,6 +36,14 @@ namespace JWTExample.API.Controllers
             if (registerResult.Succeeded)
                 return NoContent();
             return BadRequest();
+        }
+
+        [HttpGet]
+        [Route("TopSecret")]
+        [Authorize]
+        public async Task<IActionResult> TopSecretAction()
+        {
+            return Ok("You will get top secret data");
         }
     }
 }
